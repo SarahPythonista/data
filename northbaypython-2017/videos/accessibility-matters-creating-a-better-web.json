@@ -5,6 +5,13 @@
     {
       "label": "Event web",
       "url": "https://2017.northbaypython.org/schedule/presentation/3/"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "label": "Slides",
+      "url": "https://docs.google.com/presentation/d/1k8vyf2QKYhvbpoqUnRTiE70NPm1ubEG5JPlgkKRCFec/present#slide=id.g24b4da9203_0_68"
+>>>>>>> northbaypython-2017
     }
   ],
   "speakers": [

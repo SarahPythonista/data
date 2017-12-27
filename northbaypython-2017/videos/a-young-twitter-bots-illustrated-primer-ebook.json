@@ -5,6 +5,13 @@
     {
       "label": "Talk schedule",
       "url": "https://2017.northbaypython.org/schedule/presentation/4/"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "label": "Slides",
+      "url": "https://archive.org/details/aytbipe"
+>>>>>>> northbaypython-2017
     }
   ],
   "speakers": [

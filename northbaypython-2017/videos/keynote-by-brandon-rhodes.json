@@ -3,6 +3,13 @@
   "recorded": "2017-12-02",
   "related_urls": [
     {
+<<<<<<< HEAD
+=======
+      "label": "Code",
+      "url": "https://github.com/brandon-rhodes/scrawler"
+    },
+    {
+>>>>>>> northbaypython-2017
       "label": "Event web",
       "url": "https://2017.northbaypython.org/"
     },

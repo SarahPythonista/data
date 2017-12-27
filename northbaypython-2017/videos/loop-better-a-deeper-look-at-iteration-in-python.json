@@ -5,6 +5,13 @@
     {
       "label": "Talk schedule",
       "url": "https://2017.northbaypython.org/schedule/presentation/19/"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "label": "Slides",
+      "url": "http://treyhunner.com/loop-better/#/"
+>>>>>>> northbaypython-2017
     }
   ],
   "speakers": [

@@ -5,6 +5,13 @@
     {
       "label": "Talk schedule",
       "url": "https://2017.northbaypython.org/schedule/presentation/14/"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "label": "Slides",
+      "url": "https://www.slideshare.net/kvignos/5-leadership-skills-every-engineer-needs-north-bay-python"
+>>>>>>> northbaypython-2017
     }
   ],
   "speakers": [

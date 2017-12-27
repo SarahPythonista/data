@@ -3,6 +3,13 @@
   "recorded": "2017-12-02",
   "related_urls": [
     {
+<<<<<<< HEAD
+=======
+      "label": "Slides",
+      "url": "https://swenson.github.io/adventure-talk/#/"
+    },
+    {
+>>>>>>> northbaypython-2017
       "label": "Talk schedule",
       "url": "https://2017.northbaypython.org/schedule/presentation/10/"
     }
